@@ -28,10 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gichbuoy&show_icons=true&locale=en&layout=compact" alt="gichbuoy" /></p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gichbuoy&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gichbuoy&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gichbuoy&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gichbuoy&show_icons=true&locale=en" alt="gichbuoy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gichbuoy&" alt="gichbuoy" /></p>
 
