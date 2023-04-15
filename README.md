@@ -31,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gichbuoy&show_icons=true&locale=en" alt="gichbuoy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gichbuoy&" alt="gichbuoy" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=gichbuoy&theme=discord&no-frame=true&no-bg=false&margin-w=4)
