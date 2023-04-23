@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Flutter projects and Dart**
 
-- 🌱 I’m currently learning **C, Python**
+- 🌱 I’m currently learning **C && Python**
 
 - 👯 I’m looking to collaborate on **front end projects**
 
