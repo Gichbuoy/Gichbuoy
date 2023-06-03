@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/@gichbuoy1" target="blank"><img src="https://img.shields.io/twitter/follow/@gichbuoy1?logo=twitter&style=for-the-badge" alt="@gichbuoy1" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter projects and Dart**
+- 🔭 I’m currently working on **PHP projects and Reactjs**
 
-- 🌱 I’m currently learning **C && Python**
+- 🌱 I’m currently learning **Python && **
 
-- 👯 I’m looking to collaborate on **front end projects**
+- 👯 I’m looking to collaborate on **flutter projects**
 
-- 💬 Ask me about **HTML, CSS, JavaSript**
+- 💬 Ask me about **Tech**
 
 - 📫 How to reach me **lexizgichbuoy@gmail.com**
 
