@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **PHP projects and Reactjs**
 
-- 🌱 I’m currently learning **Python && **
+- 🌱 I’m currently learning **Python && Node**
 
 - 👯 I’m looking to collaborate on **flutter projects**
 
