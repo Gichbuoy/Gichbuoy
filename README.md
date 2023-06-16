@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/@gichbuoy1" target="blank"><img src="https://img.shields.io/twitter/follow/@gichbuoy1?logo=twitter&style=for-the-badge" alt="@gichbuoy1" /></a> </p>
 
-- 🔭 I’m currently working on **PHP projects and Reactjs**
+- 🔭 I’m currently working on **PHP projects and Vanilla javascript**
 
-- 🌱 I’m currently learning **Python && NodeJS**
+- 🌱 I’m currently learning **Python && ReactJS**
 
 - 👯 I’m looking to collaborate on **flutter projects**
 
