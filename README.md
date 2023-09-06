@@ -4,9 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gichbuoy&label=Profile%20views&color=0e75b6&style=flat" alt="gichbuoy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@gichbuoy1" target="blank"><img src="https://img.shields.io/twitter/follow/@gichbuoy1?logo=twitter&style=for-the-badge" alt="@gichbuoy1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@gichbuoy1" target="blank"><img src="https://img.shields.io/twitter/follow/@gichbuoy1?logo=twitter&style=for-the-badge" alt="gichbuoy1" /></a> </p>
 
 - 🔭 I’m currently working on **PHP projects and JavaScript**
+  
+- 👨🏼‍💻 Check me out at **https://alexx56-myportfolio.netlify.app/**
 
 - 🌱 I’m currently learning **Python && ReactJS**
 
