@@ -10,7 +10,7 @@
   
 - 👨🏼‍💻 Check me out at **https://alexx56-myportfolio.netlify.app/**
 
-- 🌱 I’m currently learning **Python && ReactJS**
+- 🌱 I’m currently learning **Node && ReactJS**
 
 - 👯 I’m looking to collaborate on **flutter projects**
 
