@@ -23,12 +23,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin/in/alexx-maina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexx-maina" height="30" width="40" /></a>
-<a href="https://twitter.com/Gichbuoy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Twitter-alt.svg" alt="alexx-maina" height="30" width="40" /></a>
+<a href="https://twitter.com/Gichbuoy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="alexx-maina" height="30" width="40" /></a>
 </p>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gichbuoy&show_icons=true&locale=en&layout=compact" alt="gichbuoy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gichbuoy&show_icons=true&locale=en" alt="gichbuoy" /></p>
 
