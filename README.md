@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **backend projects and JavaScript**
   
-- 👨🏼‍💻 Check me out at **https://alexx56-myportfolio.netlify.app/**
+- 👨🏼‍💻 Check me out at **/**
 
 - 🌱 I’m currently learning **Node && ReactJS**
 
