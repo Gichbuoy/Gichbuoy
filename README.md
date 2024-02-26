@@ -7,7 +7,7 @@
 
 <h3 align="center">A Passionate Software Engineer from Kenya</h3>
 
-<img align="right" height="250" width="375" alt="" src="https://media.tenor.com/G7sQh-BsxHsAAAAM/jooa-vvvv.gif" />
+<img align="right" height="250" width="375" alt="" src="https://render.fineartamerica.com/images/rendered/square-product/small/images/artworkimages/mediumlarge/3/the-happy-smile-of-captain-monkey-d-luffy-luu-thien-quang.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gichbuoy&label=Profile%20views&color=0e75b6&style=flat" alt="gichbuoy" /> </p>
 
