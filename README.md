@@ -1,8 +1,10 @@
 ## Hey there 👋, I'm [Alexx!](https://github.com/Gchbuoy/)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Gichbuoy1)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexx-maina)
+
+[![Medium Badge](https://img.shields.io/badge/-Medium-e4405f?style=flat-square&logo=Medium&logoColor=white)](https://instagram.com/iampavangandhi/)
 
 
 <h3 align="center">A Passionate Software Engineer from Kenya</h3>
