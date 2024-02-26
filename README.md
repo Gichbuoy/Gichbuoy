@@ -1,10 +1,13 @@
-<h1 align="center">Hello 😎, I'm Alexx Maina</h1>
+## Hey there 👋, I'm [Alexx!](https://github.com/Gchbuoy/)
 <h3 align="center">A Passionate Software Engineer from Kenya</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/originals/a0/9f/f8/a09ff83f0e7e66261fcec38af14f1032.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gichbuoy&label=Profile%20views&color=0e75b6&style=flat" alt="gichbuoy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@gichbuoy1" target="blank"><img src="https://img.shields.io/twitter/follow/@gichbuoy1?logo=twitter&style=for-the-badge" alt="gichbuoy1" /></a> </p>
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/@Gichbuoy1)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/alexx-maina)
+[![Medium Badge](https://img.shields.io/badge/-Medium-e4405f?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@lexizgichbuoy/)
 
 - 🔭 I’m currently working on **backend projects and JavaScript**
   
