@@ -7,7 +7,7 @@
 
 <h3 align="center">A Passionate Software Engineer from Kenya</h3>
 
-<img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/736x/ce/5b/ce/ce5bcecda77439db369b429e49684a70.jpg" />
+<img align="right" height="350" width="375" alt="" src="https://i.pinimg.com/736x/ce/5b/ce/ce5bcecda77439db369b429e49684a70.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gichbuoy&label=Profile%20views&color=0e75b6&style=flat" alt="gichbuoy" /> </p>
 
