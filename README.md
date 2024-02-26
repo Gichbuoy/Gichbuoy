@@ -7,19 +7,19 @@
 
 <h3 align="center">A Passionate Software Engineer from Kenya</h3>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Far.europeanwriterstour.com%2Fimages-2023%2Fzoro-sword-gif.html&psig=AOvVaw2KVW5sowcmsIUrRYD-tn9Q&ust=1709064638154000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIj1oPfoyYQDFQAAAAAdAAAAABBo" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gichbuoy&label=Profile%20views&color=0e75b6&style=flat" alt="gichbuoy" /> </p>
 
 
 
-- 🔭 I’m currently working on **backend projects and JavaScript**
+- 🔭 I’m currently working on **backend projects with Node, Express, Python** etc
   
 - 👨🏼‍💻 Check me out at **/**
 
-- 🌱 I’m currently learning **Node && ReactJS**
+- 🌱 I’m currently exploring **Gen AI && Flutter**
 
-- 👯 I’m looking to collaborate on **flutter projects**
+- 👯 I’m looking to collaborate on **fullstack projects**
 
 - 💬 Ask me about **Tech**
 
