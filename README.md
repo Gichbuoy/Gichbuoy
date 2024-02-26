@@ -7,7 +7,7 @@
 
 <h3 align="center">A Passionate Software Engineer from Kenya</h3>
 
-<img align="right" height="250" width="375" alt="" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Far.europeanwriterstour.com%2Fimages-2023%2Fzoro-sword-gif.html&psig=AOvVaw2KVW5sowcmsIUrRYD-tn9Q&ust=1709064638154000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIj1oPfoyYQDFQAAAAAdAAAAABBo" />
+<img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/originals/9e/07/65/9e07657cf63b39d2787f14ccfd2ed713.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gichbuoy&label=Profile%20views&color=0e75b6&style=flat" alt="gichbuoy" /> </p>
 
