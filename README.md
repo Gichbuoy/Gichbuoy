@@ -2,7 +2,6 @@
 
  
 
-
 <h3 align="center">A Passionate Software Engineer from Kenya</h3>
 
 <img align="right" height="350" width="375" alt="" src="https://i.pinimg.com/736x/ce/5b/ce/ce5bcecda77439db369b429e49684a70.jpg" />
@@ -27,9 +26,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Gichbuoy1) |
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexx-maina) |
-[![Medium Badge](https://img.shields.io/badge/-Medium-e4405f?style=flat-square&logo=Medium&logoColor=white)](https://instagram.com/iampavangandhi/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Gichbuoy1) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexx-maina) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-e4405f?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@lexizgichbuoy/)
 
 ### Languages and Tools:
 
