@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Tech**
 
-- 📫 How to reach me **lexizgichbuoy@gmail.com**
+- 📫 How to reach me **mainaalexx21@gmail.com**
 
 - ⚡ Fun fact **1 + 1 != 2**
 
