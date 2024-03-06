@@ -63,7 +63,7 @@
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gichbuoy&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Gichbuoy&theme=blue-navy&hide_border=true&exclude_days=Sun" alt="GitHub Streak" />
 </details>
 
 
