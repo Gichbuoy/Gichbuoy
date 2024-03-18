@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **backend projects with Node, Express, Python** etc
   
-- 👨🏼‍💻 Check me out at **/...**
+- 👨🏼‍💻 Check me out at **[my-portfolio](https://mainaalexx96-myportfolio.vercel.app/)**
 
 - 🌱 I’m currently exploring **Gen AI && Flutter**
 
