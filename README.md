@@ -1,4 +1,4 @@
-## Hello there 👋, I'm [Alexx!](https://github.com/Gchbuoy/)
+## Hi there 👋, I'm [Alexx!](https://github.com/Gchbuoy/)
 
  
 
