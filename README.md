@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently exploring **Gen AI && Flutter**
 
-- 👯 I’m looking to collaborate on **fullstack projects**
+- 👯 I’m looking to collaborate on **Fullstack projects**
 
 - 💬 Ask me about **Tech**
 
