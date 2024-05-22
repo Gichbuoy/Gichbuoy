@@ -2,7 +2,7 @@
 
  
 
-<h3 align="center">A Passionate Software Engineer from Kenya</h3>
+<h3 align="center">A Passionate junior Software Engineer from Kenya</h3>
 
 <img align="right" height="350" width="375" alt="" src="https://i.pinimg.com/736x/ce/5b/ce/ce5bcecda77439db369b429e49684a70.jpg" />
 
