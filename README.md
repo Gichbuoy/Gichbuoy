@@ -14,7 +14,7 @@
   
 - 👨🏼‍💻 Check me out at **[my-portfolio](https://mainaalexx96-myportfolio.vercel.app/)**
 
-- 🌱 I’m currently exploring **Gen AI && Flutter**
+- 🌱 I’m currently exploring ** AI && Flutter**
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
