@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working on **backend projects with Node, Express, Python** etc
+- 🔭 I’m currently working on **backend projects with Node, Express & Python** etc
   
 - 👨🏼‍💻 Check me out at **[my-portfolio](https://mainaalexx96-myportfolio.vercel.app/)**
 
